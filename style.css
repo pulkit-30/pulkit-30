@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 100px;
+  width: 60vw;
+  margin: auto;
+}
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 0;
+  background-color: #f6f8fa;
+  /* height: 80px; */
+  padding: 20px 0px;
+  width: 60%;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 15px;
+}
+
+#header div {
+  font-weight: bold;
+  font-size: 16px;
+  width: 120px;
+  margin: 10px 5px;
+}
+@media screen and (max-width: 800px) {
+  body {
+    padding-top: 250px;
+    width: 95%;
+  }
+  #header {
+    width: 95%;
+  }
+}
