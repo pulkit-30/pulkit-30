@@ -22,16 +22,11 @@
 
 GitHub
 
-```
 https://github.com/pulkit-30/Chat-App
-
-```
 
 Visit
 
-```
 https://pulkit-30.github.io/Chat-App/
-```
 
 ---
 
@@ -39,15 +34,11 @@ https://pulkit-30.github.io/Chat-App/
 
 GitHub
 
-```
 https://github.com/pulkit-30/Weather-app
-```
 
 Visit
 
-```
 https://pulkit-30.github.io/Weather-app/
-```
 
 ---
 
@@ -55,15 +46,11 @@ https://pulkit-30.github.io/Weather-app/
 
 GitHub
 
-```
-https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Dino-
-```
+https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Dino-Hunt-main
 
 Visit
 
-```
 https://pulkit203.github.io/Dono-hunt/
-```
 
 ---
 
@@ -71,15 +58,11 @@ https://pulkit203.github.io/Dono-hunt/
 
 GitHub
 
-```
-https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Enjoy- The-Ride-main
-```
+[https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Enjoy- The-Ride-main](https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Enjoy-The-Ride-main)
 
 Visit
 
-```
 https://pulkit203.github.io/Car-moving-animation/
-```
 
 ---
 
@@ -87,15 +70,11 @@ https://pulkit203.github.io/Car-moving-animation/
 
 GitHub
 
-```
-https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Rock- Roll-main
-```
+[https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Rock- Roll-main](https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Rock-Roll-main)
 
 Visit
 
-```
 https://pulkit203.github.io/Dice-Game/
-```
 
 ---
 
@@ -103,15 +82,11 @@ https://pulkit203.github.io/Dice-Game/
 
 GitHub
 
-```
-https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Rythm- main
-```
+[https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Rythm- main](https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Rythm-main)
 
 Visit
 
-```
 https://pulkit203.github.io/Rythm/
-```
 
 ---
 
@@ -119,15 +94,11 @@ https://pulkit203.github.io/Rythm/
 
 GitHub
 
-```
-https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Simon- game-main
-```
+[https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Simon- game-main](https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Simon-game-main)
 
 Visit
 
-```
 https://pulkit203.github.io/simon-game/
-```
 
 ---
 
@@ -135,15 +106,11 @@ https://pulkit203.github.io/simon-game/
 
 GitHub
 
-```
-https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Snake- game-main
-```
+[https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Snake- game-main](https://github.com/pulkit-30/Frontend-Games/tree/master/Game-Snake-game-main)
 
 Visit
 
-```
 https://pulkit203.github.io/Snake-Game/
-```
 
 ---
 
@@ -151,15 +118,11 @@ https://pulkit203.github.io/Snake-Game/
 
 GitHub
 
-```
 https://github.com/pulkit-30/Git-Commands
-```
 
 Visit
 
-```
 https://pulkit-30.github.io/Git-Commands/
-```
 
 ---
 
@@ -167,15 +130,11 @@ https://pulkit-30.github.io/Git-Commands/
 
 GitHub
 
-```
 https://github.com/pulkit-30/Music-Player
-```
 
 Visit
 
-```
 https://pulkit-30.github.io/Music-Player/
-```
 
 ---
 
@@ -183,14 +142,10 @@ https://pulkit-30.github.io/Music-Player/
 
 GitHub
 
-```
 https://github.com/pulkit-30/Gurukool-docs.git
-```
 
 Visit
 
-```
 https://pulkit-30.github.io/Gurukool-docs/
-```
 
 ---

@@ -27,38 +27,24 @@
 
 github
 
-```
-https://github.com/pulkit-30/Resturant-template
-```
+https://github.com/pulkit-30/Resturant-template-design
 
 ### <span style="color:#5C5470">Satkar Resturant</span>
 
-github
-
-```
-
-```
-
 Site Link -
 
-```
-
-```
+https://lit-anchorage-36867.herokuapp.com/
 
 ### <span style="color:#5C5470">Zipify</span>
 
 GitHub
 
-```
 https://github.com/MetaVASP/Zipify
-```
 
 ### <span style="color:#5C5470">Portfolio</span>
 
 Visit
 
-```
 https://pure-taiga-42354.herokuapp.com/
-```
 
 ---

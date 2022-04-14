@@ -8,15 +8,11 @@
 
 GitHub
 
-```
 https://github.com/pulkit-30/React-Keeper-App
-```
 
 Visit
 
-```
 https://react-keeper-app-55de3.firebaseapp.com/
-```
 
 ---
 
@@ -24,15 +20,11 @@ https://react-keeper-app-55de3.firebaseapp.com/
 
 GitHub
 
-```
 https://github.com/pulkit-30/React-Messenger-Clone
-```
 
 Visit
 
-```
 https://messanger-clone-6d383.firebaseapp.com/
-```
 
 ---
 
@@ -40,15 +32,11 @@ https://messanger-clone-6d383.firebaseapp.com/
 
 GitHub
 
-```
 https://github.com/pulkit-30/React-Instagram-clone
-```
 
 Visit
 
-```
 https://instagram-clone-app-4f17f.web.app/
-```
 
 ---
 
@@ -56,31 +44,19 @@ https://instagram-clone-app-4f17f.web.app/
 
 GitHub
 
-```
 https://github.com/pulkit-30/React-Netflix-clone
-```
 
 Visit
 
-```
 https://netflix-clone-5cd59.firebaseapp.com/
-```
 
 ---
 
 ### <span style="color:#5C5470">Amazon Clone</span>
 
-GitHub
-
-```
-
-```
-
 Visit
 
-```
 https://clone-9a6c5.firebaseapp.com/
-```
 
 ---
 
@@ -88,15 +64,11 @@ https://clone-9a6c5.firebaseapp.com/
 
 GitHub
 
-```
 https://github.com/pulkit-30/React-Google-Clone
-```
 
 Visit
 
-```
 https://clone-d1ff9.firebaseapp.com/
-```
 
 ---
 
@@ -104,15 +76,11 @@ https://clone-d1ff9.firebaseapp.com/
 
 GitHub
 
-```
 https://github.com/pulkit-30/Covid-19-Tracker
-```
 
 Visit
 
-```
 https://covid-19-tracker-491fa.firebaseapp.com/
-```
 
 ---
 
@@ -120,14 +88,10 @@ https://covid-19-tracker-491fa.firebaseapp.com/
 
 GitHub
 
-```
 https://github.com/pulkit-30/React-Food-order-app
-```
 
 Visit
 
-```
 https://react-food-app-d7816.firebaseapp.com/
-```
 
 ---

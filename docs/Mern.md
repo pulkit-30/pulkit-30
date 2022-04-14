@@ -42,15 +42,7 @@ Visit
 
 GitHub
 
-```
-
-```
-
-Visit
-
-```
-
-```
+https://github.com/pulkit-30/Owlet-ChatApp
 
 ---
 
@@ -58,19 +50,11 @@ Visit
 
 GitHub
 
-```
-
 https://github.com/pulkit-30/React-Blogging
-
-```
 
 Visit
 
-```
-
 https://react-blogging-4c2fc.firebaseapp.com/
-
-```
 
 ---
 
@@ -78,25 +62,7 @@ https://react-blogging-4c2fc.firebaseapp.com/
 
 GitHub
 
-```
-
-https://github.com/pulkit-30/React-E-Commerce-Store
-
-```
-
-GitHub
-
-```
-
 https://github.com/pulkit-30/MERN-E-Commerce-Store
-
-```
-
-Visit
-
-```
-
-```
 
 ---
 
@@ -104,14 +70,10 @@ Visit
 
 GitHub
 
-```
-
-```
+https://github.com/pulkit-30/Gurukool
 
 Visit
 
-```
-
-```
+https://gurukool-c7f70.firebaseapp.com/
 
 ---
