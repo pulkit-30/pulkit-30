@@ -25,15 +25,19 @@
 
 ### <span style="color:#5C5470">Resturant Site template</span>
 
-github
+GitHub
 
 https://github.com/pulkit-30/Resturant-template-design
 
+---
+
 ### <span style="color:#5C5470">Satkar Resturant</span>
 
-Site Link -
+Visit
 
 https://lit-anchorage-36867.herokuapp.com/
+
+---
 
 ### <span style="color:#5C5470">Zipify</span>
 
@@ -41,7 +45,13 @@ GitHub
 
 https://github.com/MetaVASP/Zipify
 
+---
+
 ### <span style="color:#5C5470">Portfolio</span>
+
+GitHub
+
+https://github.com/pulkit-30/Portfolio
 
 Visit
 

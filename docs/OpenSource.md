@@ -5,7 +5,7 @@
 
 ### <span style="color:#5C5470">Frontend Animation</span>
 
-Link
+GitHub
 
 https://github.com/pulkit-30/Frontend-Animations
 
@@ -13,11 +13,11 @@ https://github.com/pulkit-30/Frontend-Animations
 
 ### <span style="color:#5C5470">Frontend Games</span>
 
-Link
+GitHub
 
 https://github.com/pulkit-30/Frontend-Games
 
-Site
+Visit
 
 https://pulkit-30.github.io/Frontend-Games/
 

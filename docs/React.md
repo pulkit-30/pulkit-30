@@ -2,6 +2,16 @@
 
 # <span  style="color: #5C5470">React Development</span>
 
+### <span style="color:#5C5470">Covid-19 Tracker</span>
+
+GitHub
+
+https://github.com/pulkit-30/Covid-19-Tracker
+
+Visit
+
+https://covid-19-tracker-491fa.firebaseapp.com/
+
 ---
 
 ### <span style="color:#5C5470">React Keeper App</span>
@@ -54,6 +64,10 @@ https://netflix-clone-5cd59.firebaseapp.com/
 
 ### <span style="color:#5C5470">Amazon Clone</span>
 
+GitHub
+
+https://github.com/pulkit-30/React-Clone-Backup/tree/master/amazon-clone
+
 Visit
 
 https://clone-9a6c5.firebaseapp.com/
@@ -69,18 +83,6 @@ https://github.com/pulkit-30/React-Google-Clone
 Visit
 
 https://clone-d1ff9.firebaseapp.com/
-
----
-
-### <span style="color:#5C5470">Covid-19 Tracker</span>
-
-GitHub
-
-https://github.com/pulkit-30/Covid-19-Tracker
-
-Visit
-
-https://covid-19-tracker-491fa.firebaseapp.com/
 
 ---
 
